@@ -1,5 +1,5 @@
 # ELEC0134Final
-this is the code submission for the Applied Machine Learning System
+this is the code submission for the Applied Machine Learning System /n
 this folder contains three folders, 
 folder A is the code for task A binary classification
 folder B is the code for task B multi-classes classification.
